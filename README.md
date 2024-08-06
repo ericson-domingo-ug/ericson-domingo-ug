@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ericson</h1>
 <h3 align="center">I'm an 5th year undergraduate Physics student.</h3>
-<h3 align="center">II’m currently working on [my thesis on urban heat islands!](https://github.com/ericson-domingo-ug/thesis-latex)</h3>
+
+I’m currently working on [my thesis on urban heat islands!](https://github.com/ericson-domingo-ug/thesis-latex)
 
 **My hobbies include:**
 
