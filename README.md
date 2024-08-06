@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a 5th year undergraduate Physics student. I'm currently working on my thesis, which is on urban heat islands.
+
 <!--
 **ericson-domingo-ug/ericson-domingo-ug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
